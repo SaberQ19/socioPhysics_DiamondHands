@@ -1,5 +1,5 @@
 # socioPhysics_DiamondHands
-Code base for team Diamond Hands' sociophysics project. 
+Code base for team Diamond Hands' sociophysics project. Tested on windows environments (not linux)
 
 # Usage instructions
 Run sociophysicsDataHandler_package.ipynb if you are running the files locally you only have to do this once, on colab you have to do this each time.
