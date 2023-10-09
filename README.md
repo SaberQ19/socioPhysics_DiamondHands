@@ -1,6 +1,5 @@
-# socioPhysicsTUe_econ
-A collection of Jupyter notebooks for instructional purposes in the SocioPhysics 1 course taught at Eindhoven University of Technology. 
-Each notebooks teaches you how to perform tasks that will be useful in the SocioPhysics courses.<br/> <br/> <br/>
+# socioPhysics_DiamondHands
+Code base for team Diamond Hands' sociophysics project. 
 
 ### reddit.ipynb 
 Introduction to the Reddit database. We learn how to open and handle Reddit posts and comments, and how to perform basic analyses.
